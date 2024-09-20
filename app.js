@@ -14,7 +14,7 @@ const pages = {
         <div class="recent-items">
             <h2>Training Tools</h2>
             <a href="#par" class="recent-item">
-                <img src="PARTIMER.png" alt="Par Timer">
+                <img src="partimer.png" alt="Par Timer">
                 <div>
                     <h3>Par Timer</h3>
                     <p>Customizable par timer for precision training</p>
