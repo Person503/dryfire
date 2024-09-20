@@ -360,7 +360,7 @@ function initUSPSASimulator() {
             timerDisplay.textContent = 'Wait for beep...';
             setTimerColor('#5AC8FA'); // Blue color when waiting for beep
 
-            const randomDelay = Math.random() * 2000 + 2000; // Random delay between 2 and 4 seconds
+            const randomDelay = Math.random() * 1300;
             setTimeout(() => {
                 playSound(startBeep);
                 startTime = Date.now();
